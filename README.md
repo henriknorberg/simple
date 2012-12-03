@@ -1,4 +1,4 @@
 simple
 ======
 
-Basic Html setup
+Basic Html setup. Simple as that.
