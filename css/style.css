@@ -68,7 +68,8 @@ article{
 
 
 .manchet, .manchet p {
-    color: #555555;
+    font-family:'Cinzel',Arial, Helvetica, sans-serif;
+    color: #333;
     font-size: 1.5em;
     line-height: 1em;
     margin-bottom: 1em;
