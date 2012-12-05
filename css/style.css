@@ -10,12 +10,12 @@ body{
 p { font-size: 1em; /* 16px */ line-height: 1.5em; /* 24px */ margin: 0 0 1.5em 0; }
 
 h1{
- font-size: 4.5em; 
-  line-height: 1em; 
-  margin-bottom: 0.33em;
-  margin-top: 0em;
-  padding-bottom: 0.17em;
-  letter-spacing: -4px;
+    font-size: 6em;
+    letter-spacing: -6px;
+    line-height: 1em;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-bottom: 0.25em;
 }
 	
 h2 { font-size: 3em; /* 48px */ line-height: 1em; /* 48px */ margin-top: 0em; margin-bottom: 0em; letter-spacing:-1px}
@@ -27,7 +27,8 @@ h4 { font-size: 1.5em; /* 24px */ line-height: 1em; /* 24px */ margin-top: 1em; 
 
 
 h1, h2, h3, h4, h5 {
-font-weight:700; color: #1C2E2E;
+font-family:'Cinzel',Arial, Helvetica, sans-serif;
+font-weight:400; color: #333;
 /*text-shadow:1px 0px #FFF;*/
 }
 
@@ -50,7 +51,7 @@ a img {border: 0;}
 .page-wrapper{
     margin: auto;
     max-width: 64em;
-    padding: 4.5em 1.5em;
+    padding: 6em 1.5em;
 }
 
 section{
@@ -67,10 +68,10 @@ article{
 
 
 .manchet, .manchet p {
-    color: #333333;
+    color: #555555;
     font-size: 1.5em;
     line-height: 1em;
-    margin-bottom: 1.4em;
+    margin-bottom: 1em;
     margin-top: 1em;
 }
 
